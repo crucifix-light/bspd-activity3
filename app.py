@@ -11,4 +11,4 @@ def page1():
     return "Welcome to flask page1 JR!"
 
 if __name__=='__main__':
-    app.run(host='0.0.0.0',port=5000)
+    app.run(host='0.0.0.0',port=8087)
